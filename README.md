@@ -15,6 +15,10 @@ It also explores the factors influencing churn, analyzes customer behavior, and 
 - **Single Customer Prediction:** enter a customer profile to get a churn probability and classification, with SHAP explanations (bar, decision and force plots), a ranked list of the features that contribute most, and what-if scenarios that show which single changes would lower churn risk.
 - **Batch Risk Segmentation:** score the bundled dataset or an uploaded CSV, group customers into Low, Medium and High risk tiers with adjustable cutoffs, review the largest drivers within each tier, and download the scored results.
 
+
+
+
+
 # Power BI Dashboard
 
 Developed an interactive Power BI dashboard to transform customer data into actionable business insights.
